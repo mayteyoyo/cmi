@@ -90,16 +90,17 @@ Cuando tuve clara la idea de teaser dibujé todos los elementos. A medida que ib
 Una vez realizado el minijuego de arrastres donde se debía ir encontrado distintos objetos para meter en mi mochila me di cuenta que quizás estos objetos solo eran reconocibles para los estudiantes de Bellas Artes. Para que el juego fuese para todos los públicos decidí meter un botón en el menú principal que te explicara mas en detalle de que iba la historia y un QUIZZ para que todo publico pudiera familiarizarse con los objetos que deberá encontrar en la habitación desordenada que materiales se necesita para cada asignatura, así todo jugador puede estar familiarizado con los objetos que luego deberá busca.
 Al principio del teaser , cree mi propio logo interactivo estilo loop . (LOGO CAT ARTS) usando una secuencia de imágenes. 
 De esta manera, después del teaser el menú quedo organizado en distintos botones (4) que dan acceso a distintas escenas, Quizz  y al minijuego de arrastres.
-En el botón ¿De qué va esto? Hago una breve explicación del objetivo del juego y luego da la opción a realizar el Quizz (con aciertos y fallos) para conocer los objetos que luego deberán encontrarse en el minijuego de arrastres.  
+   -En el botón ¿De qué va esto? Hago una breve explicación del objetivo del juego y luego da la opción a realizar el Quizz (con aciertos y fallos) para conocer los objetos que luego deberán encontrarse en el minijuego de arrastres.  
 En esta parte también introduje un video divulgativo-cómico sobre la entropía (desorden). Este es un video casero que yo misma filme.
-Botón “Jugar”: Minijuego de arrastres donde debemos encontrar todos los materiales para ir a la universidad y meterlos en la mochila. 
-Botón de “Ajustes”: Con los ajustes de sonido del video juego. Básicamente la música de fondo.
+    -Botón “Jugar”: Minijuego de arrastres donde debemos encontrar todos los materiales para ir a la universidad y meterlos en la mochila. 
+    - Botón de “Ajustes”: Con los ajustes de sonido del video juego. Básicamente la música de fondo.
 Botón “ Galeria” : Aquí meti todas las imágenes utilizadas en el juego 
    Menús y elementos de navegación (botones): Los botones del juego son muy sencillos he intuitivos. Podemos encontrar varios tipos de botones:
-Botones básicos : tipo “mancha” con dos estados , la mancha cambia de color al ser pulsada. 
-Botones de la galería: Estos botones simples con un solo estado , “flechas” para ir hacia adelante y hacia atrás en la galería . 
+    -Botones básicos : tipo “mancha” con dos estados , la mancha cambia de color al ser pulsada. 
+    -Botones de la galería: Estos botones simples con un solo estado , “flechas” para ir hacia adelante y hacia atrás en la galería . 
 Además, hay otros elementos que actúan como botones , por ejemplo en el juego de arrastres en el que algunos elementos son botones con dos estados, pues al coger algunos elementos se sacan de lugares y deben cambiar de forma  en lugar de imágenes con área caliente( ejemplo: el bastidor, el turulo de dibujo ,la mochila que abre y cierra la boca cada vez que introduces un objeto…)
 Botones de sonido: simples con un estado 
+
 Etapa 3: Problemas identificados
 
 Uno de los problemas principales es el peso del archivo y la cantidad de dibujos que debí introducir, pues decidí diseñar yo misma todas las imágenes que salen en el juego. 
