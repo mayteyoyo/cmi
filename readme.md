@@ -38,9 +38,9 @@ El protagonista es su mochila, quien debe encontrar los materiales en el desorde
 
 - Github:https://github.com/mayteyoyo/mayteyoyo.github.io
 
-mochila ojo abierto.png
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![mochila  cerrada ojo abierto](https://github.com/mayteyoyo/mayteyoyo.github.io/assets/135208736/82c5be87-9f82-4673-9f21-98c388ecf630)
+
 
 # 2. Memoria del proyecto 
 
