@@ -104,6 +104,7 @@ Botones de sonido: simples con un estado
 Etapa 3: Problemas identificados
 
 Uno de los problemas principales es el peso del archivo y la cantidad de dibujos que debí introducir, pues decidí diseñar yo misma todas las imágenes que salen en el juego. 
+Tambien , todos los compentes de mi videojuego funcionan en hippani , pero al exportarlo no funciona el quizz 
 
 
 
